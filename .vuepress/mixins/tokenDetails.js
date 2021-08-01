@@ -18,7 +18,7 @@ export default {
           tokenRecover: false,
           removeCopyright: false,
           originalPrice: 1,
-          price: 1,
+          price: 0,
           gas: 1163434,
         },
         {
@@ -37,7 +37,7 @@ export default {
           tokenRecover: false,
           removeCopyright: true,
           originalPrice: 1,
-          price: 1,
+          price: 0,
           gas: 1123801,
         },
         {

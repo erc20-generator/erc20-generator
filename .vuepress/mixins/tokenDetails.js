@@ -112,7 +112,7 @@ export default {
           erc1363: false,
           tokenRecover: false,
           removeCopyright: true,
-          originalPrice: 0.35,
+          originalPrice: 0,
           price: 0,
           gas: 1919665,
         },

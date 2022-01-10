@@ -1,14 +1,14 @@
 # ERC20 Token Generator
 
-[![Build Status](https://travis-ci.com/vittominacori/erc20-generator.svg?branch=master)](https://travis-ci.com/vittominacori/erc20-generator)
-[![Coverage Status](https://coveralls.io/repos/github/vittominacori/erc20-generator/badge.svg?branch=master)](https://coveralls.io/github/vittominacori/erc20-generator?branch=master)
-[![MIT licensed](https://img.shields.io/github/license/vittominacori/erc20-generator.svg)](https://github.com/vittominacori/erc20-generator/blob/master/LICENSE)
+[![Build Status](https://travis-ci.com/erc20-generator/erc20-generator.svg?branch=master)](https://travis-ci.com/erc20-generator/erc20-generator)
+[![Coverage Status](https://coveralls.io/repos/github/erc20-generator/erc20-generator/badge.svg?branch=master)](https://coveralls.io/github/erc20-generator/erc20-generator?branch=master)
+[![MIT licensed](https://img.shields.io/github/license/erc20-generator/erc20-generator.svg)](https://github.com/erc20-generator/erc20-generator/blob/master/LICENSE)
 
 The most used Smart Contract Generator for ERC20 Token.
 
 ## Try it
 
-[https://vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator)
+[https://erc20-generator.github.io/erc20-generator](https://erc20-generator.github.io/erc20-generator)
 
 
 ## Development
